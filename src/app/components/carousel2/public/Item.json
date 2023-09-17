@@ -20,6 +20,26 @@
         "date": "09.09.2023",
         "description": "Some text for description",
         "comment": "Some text for comment"
+      },
+      {
+        "id": 3,
+        "logoSrc": "market_idea_logo.svg",
+        "companyName": "Company Name",
+        "projectImageSrc": "energyCorporation.png",
+        "starRating": "⭐⭐⭐⭐⭐",
+        "date": "09.09.2023",
+        "description": "Some text for description",
+        "comment": "Some text for comment"
+      },
+      {
+        "id": 4,
+        "logoSrc": "market_idea_logo.svg",
+        "companyName": "Company Name",
+        "projectImageSrc": "energyCorporation.png",
+        "starRating": "⭐⭐⭐⭐⭐",
+        "date": "09.09.2023",
+        "description": "Some text for description",
+        "comment": "Some text for comment"
       }
     ]
   }
